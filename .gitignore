@@ -1,0 +1,4 @@
+*/.vscode
+*/build
+*/.qmlls.ini
+*/CMakeLists.txt.user
